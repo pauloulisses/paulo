@@ -1,5 +1,5 @@
 ## Olá! sou Paulo Ulisses desenvolvedor de softwere ✌️
-Estudante de Análise e Desenvolvimento de Sistemas 👨‍🎓
+Estudante Full Stack 👨‍🎓
 
 <div align="center">
   <a href="https://github.com/pauloulisses">
